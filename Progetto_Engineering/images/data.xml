@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--File di salvataggio dell'applicazione. Non modificare a mano.-->
+<root>
+    <Engineering type="Aeronautic">
+        <s_name>yan</s_name>
+        <student_number>ENG1211</student_number>
+        <fac_name>Aeronautic</fac_name>
+        <location>BIYEM</location>
+        <degree>0</degree>
+        <entry_exam>1</entry_exam>
+        <math_score>14</math_score>
+        <logic_score>17</logic_score>
+        <bachelor_degree>Physics</bachelor_degree>
+        <degree_score>27</degree_score>
+        <entry_exam_score>17</entry_exam_score>
+    </Engineering>
+    <Engineering type="Mechanics">
+        <s_name>yan</s_name>
+        <student_number>ENG121</student_number>
+        <fac_name>Mechanical Engineering</fac_name>
+        <location>BIYEM</location>
+        <degree>0</degree>
+        <entry_exam>1</entry_exam>
+        <math_score>14</math_score>
+        <logic_score>17</logic_score>
+    </Engineering>
+    <Engineering type="Informatic">
+        <s_name>yan</s_name>
+        <student_number>ENG12</student_number>
+        <fac_name>Computer Engineering</fac_name>
+        <location>BIYEM</location>
+        <degree>0</degree>
+        <entry_exam>1</entry_exam>
+        <math_score>14</math_score>
+        <logic_score>17</logic_score>
+    </Engineering>
+    <Engineering type="Informatic">
+        <s_name>YANNICK</s_name>
+        <student_number>ENG15</student_number>
+        <fac_name>Computer Engineering</fac_name>
+        <location>MATHSOP</location>
+        <degree>0</degree>
+        <entry_exam>0</entry_exam>
+        <math_score>1</math_score>
+        <logic_score>18</logic_score>
+    </Engineering>
+    <Engineering type="Aeronautic">
+        <s_name>akak</s_name>
+        <student_number>ENG23</student_number>
+        <fac_name>Aeronautic</fac_name>
+        <location>LOG</location>
+        <degree>1</degree>
+        <entry_exam>0</entry_exam>
+        <math_score>0</math_score>
+        <logic_score>0</logic_score>
+        <bachelor_degree>Maths</bachelor_degree>
+        <degree_score>29</degree_score>
+        <entry_exam_score>19</entry_exam_score>
+    </Engineering>
+</root>
